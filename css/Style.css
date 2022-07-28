@@ -1,0 +1,9 @@
+.cover img{
+    filter: brightness(40%);
+}
+@media only screen and (max-width:576px) {
+    .cover-text{
+        font-size: 14px;
+    }
+    
+}
